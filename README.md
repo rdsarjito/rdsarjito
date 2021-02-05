@@ -1,4 +1,4 @@
-# Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+# Hi there (https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 ### :bar_chart: GitHub stats
 ![Ramadhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdsarjito&theme=tokyonight&show_icons=true)
