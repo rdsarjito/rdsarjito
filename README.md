@@ -1,10 +1,10 @@
-# Hi there (https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Hi there ![Ramadhani's Waving](http://url/to/img.png)
 
 ### :bar_chart: GitHub stats
 ![Ramadhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdsarjito&theme=tokyonight&show_icons=true)
 
 ### :bar_chart: Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdsarjito)](https://github.com/anuraghazra/github-readme-stats)
+[![Ramadhani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdsarjito&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rdsarjito/rdsarjito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
