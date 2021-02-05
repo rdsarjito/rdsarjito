@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ramadhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdsarjito&theme=tokyonight_icons=true)
+![Ramadhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdsarjito&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdsarjito)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
