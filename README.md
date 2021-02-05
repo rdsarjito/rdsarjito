@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Ramadhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdsarjito&theme=tokyonight_icons=true)
+
 <!--
 **rdsarjito/rdsarjito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
