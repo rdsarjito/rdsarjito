@@ -1,4 +1,4 @@
-# <p align="center">Hi there, I'm Ramadhani Nur Sarjito <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"></p>
+# <p align="center">Hi there, I'm Ramadhani Nur  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"></p>
 
 ## :bar_chart: GitHub stats
 ![Ramadhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdsarjito&theme=tokyonight&show_icons=true)
